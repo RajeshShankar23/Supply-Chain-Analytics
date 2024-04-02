@@ -36,7 +36,7 @@ Make vs Buy Decision: The comparison between make and buy options revealed cost 
 
 The comprehensive analysis enabled Ternate Industries to make informed decisions regarding the make versus buy dilemma for replacement parts. By considering factors such as supplier costs, production volumes, and incremental investments, the company can optimize its supply chain operations and maximize cost savings.
 
-Recommendations:
+# Recommendations:
 
 Supplier Optimization: Continuously evaluate supplier performance and negotiate favorable terms to minimize costs and enhance competitiveness.
 
